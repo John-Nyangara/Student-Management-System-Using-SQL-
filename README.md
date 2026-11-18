@@ -1,5 +1,5 @@
 # Student-Management-System-Using-SQL-
-This project involves basic ddl dml and dcl commands in sql through managing records in a school environment 
+This project involves basic ddl commands in sql used to create alter and drop tables 
 
 Dataset Overview
 The Student Management System consists of five main tables. These tables are connected using primary and foreign keys.
